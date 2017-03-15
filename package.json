@@ -1,0 +1,34 @@
+{
+  "name": "js-websocket",
+  "version": "1.0.0",
+  "description": "JavaScript websocket tests",
+  "main": "client.js",
+  "dependencies": {
+    "debug": "^2.6.3",
+    "is-typedarray": "^1.0.0",
+    "ms": "^0.7.3",
+    "nan": "^2.5.1",
+    "typedarray-to-buffer": "^3.1.2",
+    "websocket": "^1.0.24",
+    "yaeti": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaGupta1/js-websocket.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "websocket"
+  ],
+  "author": "Aditya Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaGupta1/js-websocket/issues"
+  },
+  "homepage": "https://github.com/AdityaGupta1/js-websocket#readme"
+}
